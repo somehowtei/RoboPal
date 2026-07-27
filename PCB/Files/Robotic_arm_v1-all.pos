@@ -1,0 +1,19 @@
+### Footprint positions - created on 2026-04-24T14:07:31 ###
+### Printed by KiCad version 10.0.0
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                   Package                                                             PosX       PosY       Rot  Side
+C1        470u                  CP_Radial_D8.0mm_P5.00mm                                        136.9200   -55.9823  -90.0000  top
+C2        100n                  C_Disc_D5.0mm_W2.5mm_P2.50mm                                    122.7800   -84.1300  -90.0000  top
+C3        100n                  C_Disc_D5.0mm_W2.5mm_P2.50mm                                    137.5600   -72.5600  -90.0000  top
+C4        100n                  C_Disc_D5.0mm_W2.5mm_P2.50mm                                    122.8200   -72.8400  -90.0000  top
+C5        100n                  C_Disc_D5.0mm_W2.5mm_P2.50mm                                    137.5500   -84.1600  -90.0000  top
+J2        Screw_Terminal_01x02  TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal   122.7500   -57.3800  -90.0000  top
+JB1       Conn_01x05_Pin        joystick                                                        172.5000   -82.1600   90.0000  top
+JLH1      Conn_01x05_Pin        joystick                                                        172.4000   -64.6648   90.0000  top
+Nano1     Arduino_Nano_v3.x     Arduino_Nano                                                    146.0100   -54.0900    0.0000  top
+SB1       Conn_01x03_Pin        PinHeader_1x03_P2.54mm_Vertical                                 119.3600   -89.1400  180.0000  top
+SG1       Conn_01x03_Pin        PinHeader_1x03_P2.54mm_Vertical                                 134.1200   -89.1400  180.0000  top
+SH1       Conn_01x03_Pin        PinHeader_1x03_P2.54mm_Vertical                                 134.1200   -77.7300  180.0000  top
+SL1       Conn_01x03_Pin        PinHeader_1x03_P2.54mm_Vertical                                 119.3900   -78.0300  180.0000  top
+## End
